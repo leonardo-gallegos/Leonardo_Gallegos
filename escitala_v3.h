@@ -1,5 +1,5 @@
-#ifndef STACK_H
-#define STACK_H
+#ifndef SCYTALE_H
+#define SCYTALE_H
 
 #include <string>
 #include <iomanip>
