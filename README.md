@@ -19,7 +19,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -161,7 +161,7 @@ Project Link: [https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilc
 [stars-url]: https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/stargazers
 [issues-shield]: https://img.shields.io/github/issues/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca.svg?style=for-the-badge
 [issues-url]: https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/issues
-[license-shield]: https://img.shields.io/github/license/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/renzo-leonardo-gallegos-vilca
