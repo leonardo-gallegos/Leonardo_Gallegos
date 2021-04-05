@@ -153,15 +153,15 @@ Project Link: [https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilc
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/leonardo-gallegos/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/leonardo-gallegos/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/leonardo-gallegos/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/leonardo-gallegos/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/leonardo-gallegos/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/leonardo-gallegos/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/leonardo-gallegos/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/leonardo-gallegos/repo/issues
-[license-shield]: https://img.shields.io/github/license/leonardo-gallegos/repo.svg?style=for-the-badge
-[license-url]: https://github.com/leonardo-gallegos/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca.svg?style=for-the-badge
+[contributors-url]: https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca.svg?style=for-the-badge
+[forks-url]: https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/network/members
+[stars-shield]: https://img.shields.io/github/stars/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca.svg?style=for-the-badge
+[stars-url]: https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/stargazers
+[issues-shield]: https://img.shields.io/github/issues/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca.svg?style=for-the-badge
+[issues-url]: https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/issues
+[license-shield]: https://img.shields.io/github/license/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca.svg?style=for-the-badge
+[license-url]: https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/renzo-leonardo-gallegos-vilca
