@@ -8,7 +8,7 @@
  del cociente menos una unidad. */
 int remainder (int a, int n) {
 	int r;
-    int q = a/n;
+	int q = a/n;
 	if (a > 0) {
 		r = a - q * n;
 	}
