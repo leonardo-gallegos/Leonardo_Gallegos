@@ -25,7 +25,7 @@ T RailFence<T>::encode() {
             while (n <= length) {
                 if (flag == 1) {
                     x = (key - (i + 1)) * 2;
-                    if (n + x <= length) {
+                    if (n + x < length) {
                         code.push_back(msg[n + x]);
                         n = n + x;
                         flag = 0;
@@ -36,7 +36,7 @@ T RailFence<T>::encode() {
                 }
                 if (flag == 0)  {
                     x = i * 2;
-                    if (n + x <= length) {
+                    if (n + x < length) {
                         code.push_back(msg[n + x]);
                         n = n + x;
                         flag = 1;
