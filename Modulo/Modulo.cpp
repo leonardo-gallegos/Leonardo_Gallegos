@@ -1,11 +1,15 @@
 #include <iostream>
- 
-#include <iostream>
- 
+
+/* Función que retorna el residuo positivo de una
+ división entre "a" y "n"; en el caso de que el
+ residuo sea negativo (división entre un entero
+ negativo y un entero positivo) devolverá el valor
+ del residuo positivo, es decir se usará el valor
+ del cociente menos una unidad. */
 int remainder (int a, int n) {
 	int r;
     int q = a/n;
-	if (a > 0) {
+	if (a > 0) {https://github.com/leonardo-gallegos/Renzo_Leonardo_Gallegos_Vilca/blob/main/Modulo/Modulo.cpp
 		r = a - q * n;
 	}
 	else {
@@ -18,5 +22,4 @@ int main() {
 	
 	std::cout << remainder( 255, 11); // Prints 2
 	std::cout << remainder(-255, 11); // Prints 9
-    std::cout << 255%11 << -255%11;
 }
