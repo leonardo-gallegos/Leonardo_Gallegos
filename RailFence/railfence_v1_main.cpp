@@ -28,8 +28,8 @@ int main() {
         std::string code = code_1.encode();
         std::cout << "\nEncoded message: " << code;
     } else {
-        //std::string code = code_1.decode();
-        //std::cout << "\nDecoded message: " << code;
+        std::string code = code_1.decode();
+        std::cout << "\nDecoded message: " << code;
     }
 
     return 0;

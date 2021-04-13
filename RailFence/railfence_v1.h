@@ -13,7 +13,7 @@ private:
 public:
     RailFence (T message, short int msgKey);
     T encode ();
-    //T decode ();
+    T decode ();
 };
 
 #endif
