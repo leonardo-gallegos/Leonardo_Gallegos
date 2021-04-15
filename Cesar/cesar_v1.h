@@ -7,7 +7,7 @@ class Caesar {
 private:
     int key;
     T msg;
-    T alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ .,;:?!'()=1234567890";
+    T alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ .,;:?!'()=-_1234567890";
 public:
     Caesar(T message, int msgKey);
     T encode();
