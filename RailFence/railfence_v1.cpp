@@ -54,7 +54,6 @@ T RailFence<T>::encode() {
 
 template <typename T>
 T RailFence<T>::decode() {
-
     int ini;
     int x;
     int length = msg.length();
