@@ -38,7 +38,7 @@ T Caesar<T>::encode()
                         pos = pos + 26;
                 }
                 // Numbers and punctuation marks interval
-                else if ((j > 51) && ( j < 73)) {
+                else if ((j > 51) && ( j < 75)) {
                         pos = j;
                 }
                 code.push_back(alpha[pos]);
