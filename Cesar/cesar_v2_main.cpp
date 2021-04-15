@@ -2,11 +2,9 @@
 #include <iomanip>
 #include "cesar_v2.cpp"
 
-/* Caesar cipher using lower case, upper case,
-   numbers and punctuation marks.
+/* Caesar cipher using lower case and upper case.
 
-   Cifrado César usando minúsculas, mayúsculas,
-   números y signos de puntuación.           */
+   Cifrado César usando minúsculas y mayúsculas. */
 
 int main() {
     std::string msg;
