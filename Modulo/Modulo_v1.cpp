@@ -6,20 +6,17 @@
  negativo y un entero positivo) devolverá el valor
  del residuo positivo, es decir se usará el valor
  del cociente menos una unidad. */
+
 int remainder (int a, int n) {
-	int r;
-	int q = a/n;
-	if (a > 0) {
-		r = a - q * n;
-	}
-	else {
-		r = a - (q - 1) * n;
-	}
-	return r;
+    int r = a - (a / n) * n;
+    if (r < 0) {
+        r = r + n;
+    }
+    return r;
 }
  
 int main() {
 	
-	std::cout << remainder( 255, 11) << std::endl; // Prints 2
+	std::cout << remainder( 255, 11); // Prints 2
 	std::cout << remainder(-255, 11); // Prints 9
 }
