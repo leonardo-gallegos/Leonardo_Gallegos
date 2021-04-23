@@ -44,7 +44,7 @@ int main() {
         std::cout << "\nEncoded message: " << code;
     }
     else if (opt == 2) {
-        std::string code = csr.encode();
+        std::string code = csr.decode();
         std::cout << "\nDecoded message: " << code;
     }
     else if (opt == 3) {
