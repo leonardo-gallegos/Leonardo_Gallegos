@@ -1,4 +1,4 @@
-#include "cesar_v2.h"
+#include "cesar_v3.h"
 #include <string>
 
 template <typename T>
@@ -45,8 +45,10 @@ T Caesar<T>::encode()
                 newPos = remainder(newPos, 26);
             }
             code.push_back(upperAlpha[newPos]);
-        }           
-        
+        }
+        else {
+            code.push_back(' ');
+        }
     }
     return code;
 }
@@ -81,8 +83,10 @@ T Caesar<T>::decode()
                 newPos = remainder(newPos, 26);
             }
             code.push_back(upperAlpha[newPos]);
-        }           
-        
+        }
+        else {
+            code.push_back(' ');
+        }             
     }
     return code;
 }
