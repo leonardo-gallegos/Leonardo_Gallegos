@@ -8,7 +8,7 @@ private:
     int a;
     int b;
     T msg;
-    T alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    T alpha = "abcdefghijklmnopqrstuvwxyz,.-_ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789()";
 
 public:
     Affine();

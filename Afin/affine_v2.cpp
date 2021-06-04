@@ -10,8 +10,8 @@ Affine<T>::Affine() {
     // generate_keyB();
     // Supongamos que las claves generadas
     // aleatoriamente son 'a' = 5 y 'b' = 8
-    a = 5;
-    b = 8;
+    a = 65;
+    b = 7;
 }
 
 template <typename T>

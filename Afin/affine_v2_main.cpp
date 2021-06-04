@@ -27,7 +27,7 @@ int main() {
     }
     else if (opt == 2) {
         // Objeto Receptor
-        Affine<std::string> Receiver(5, 8);
+        Affine<std::string> Receiver(65, 7);
         std::string code = Receiver.decode();
         std::cout << "\nDecoded message: " << code;
     }
